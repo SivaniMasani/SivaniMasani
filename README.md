@@ -11,10 +11,12 @@
 
 
 
-### Glad to see you here!  
-I am an analytical and detail-oriented professional with a strong foundation in data analysis and business intelligence.I am a results-driven data analyst with experience in transforming complex data into meaningful insights. My passion lies in leveraging data to inform business strategy, uncover growth opportunities, and drive improvements.
+### Glad to see you here! 
+I’m a Data Analyst with a knack for transforming raw data into actionable insights. Passionate about using data to drive business strategy and identify opportunities for growth and improvement, I thrive on solving complex problems and uncovering meaningful trends.
 
-My expertise lies in collecting, cleaning and analyzing large datasets using SQL, Python, Excel and various BI tools. I'm adept at understanding business needs and translating them into focused analytical projects. Complex quantitative analyses excite me, and I particularly enjoy the challenge of deriving insights from messy, real-world data.  
+My expertise lies in collecting, cleaning, and analyzing large datasets using SQL, Python, Excel, and various BI tools. I excel at understanding business needs and translating them into focused analytical projects that lead to impactful solutions. I particularly enjoy the challenge of working with messy, real-world data and turning it into valuable insights that empower data-driven decision-making.
+
+Committed to continuous learning and innovation, I love exploring new analytical approaches to make a real impact.
   
 
 <br/>  
@@ -26,6 +28,7 @@ My expertise lies in collecting, cleaning and analyzing large datasets using SQL
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>    
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
+<a href="https://www.excel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/excel-original-wordmark.svg" alt="Excel" height="25" /></a> 
 </div>  
 
 <br/>  
