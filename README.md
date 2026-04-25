@@ -1,8 +1,8 @@
 
 # 👋 Hi, I'm Sivani Masani - Data Analyst
 
- I turn raw, messy data into clear business insights using Excel
-Python, SQL, and Power BI.
+ I turn raw, messy data into clear business insights using  
+ Excel, Python, SQL, and Power BI.
 
  Hyderabad, India | Open to Data Analyst roles globally
 
