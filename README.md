@@ -4,7 +4,7 @@
  I turn raw, messy data into clear business insights using 
 Python, SQL, and Power BI.
 
-📍 Hyderabad, India | Open to Data Analyst roles globally
+ Hyderabad, India | Open to Data Analyst roles globally
 
 ---
 
@@ -36,7 +36,7 @@ Python, SQL, and Power BI.
 
 | Project | Tools | Key Finding |
 |---|---|---|
-| [Customer Churn Analysis](https://github.com/SivaniMasani/Customer-Churn-Analysis) | Python, Power BI, ML | 82% accurate churn prediction — $8,200/month impact |
+| [Customer Churn Analysis](https://github.com/SivaniMasani/Customer_Churn_Analysis) | Python, Power BI, ML | 82% accurate churn prediction — $8,200/month impact |
 | [Electric Vehicle Analysis](https://github.com/SivaniMasani/POWERBI-PROJECTS) | Power BI | Tesla leads with 46% market share across 150K vehicles |
 | [EV Population Analysis](https://github.com/SivaniMasani/EXCEL-PROJECTS) | Excel | BEV dominates at 78% of 150K total vehicles |
 | [Pizza Sales Analysis](https://github.com/SivaniMasani/SQL-PROJECTS) | SQL | $817,860 total revenue — Classic category leads |
