@@ -1,38 +1,54 @@
-## Hey 👋, I'm Sivani Masani!  
-  
 
-<a href="https://github.com/SivaniMasani" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/sivanimasani/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+# 👋 Hi, I'm Sivani Masani - Data Analyst
+
+ I turn raw, messy data into clear business insights using 
+Python, SQL, and Power BI.
+
+📍 Hyderabad, India | Open to Data Analyst roles globally
+
+---
+
+##  Featured Project
+
+###  [Customer Churn Analysis & Prediction](https://github.com/SivaniMasani/Customer-Churn-Analysis)
+> Python | Power BI | Machine Learning | Scikit-learn
+
+- Analysed **7,043 customer records** to identify churn drivers
+- Built Logistic Regression model with **82% accuracy**
+- Churned customers pay **$13.18 more per month** on average
+- Estimated business impact: **$8,200+ saved per month**
+
+---
+
+##  Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Libraries | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| Visualisation | Power BI, Matplotlib, Seaborn |
+| Databases | MySQL, SQL Server (SSMS) |
+| Other | Excel, ETL, ERP (COINS, Junifer), Agile, Jira |
+
+---
+
+##  My Projects
+
+| Project | Tools | Key Finding |
+|---|---|---|
+| [Customer Churn Analysis](https://github.com/SivaniMasani/Customer-Churn-Analysis) | Python, Power BI, ML | 82% accurate churn prediction — $8,200/month impact |
+| [Electric Vehicle Analysis](https://github.com/SivaniMasani/POWERBI-PROJECTS) | Power BI | Tesla leads with 46% market share across 150K vehicles |
+| [EV Population Analysis](https://github.com/SivaniMasani/EXCEL-PROJECTS) | Excel | BEV dominates at 78% of 150K total vehicles |
+| [Pizza Sales Analysis](https://github.com/SivaniMasani/SQL-PROJECTS) | SQL | $817,860 total revenue — Classic category leads |
+| [Walmart Sales Analysis](https://github.com/SivaniMasani/SQL-PROJECTS) | SQL | Branch C leads — Evenings peak at 429 transactions |
+| [Customer Transaction Analysis](https://github.com/SivaniMasani/EXCEL-PROJECTS) | Excel | Website drives £81,070 — highest channel revenue |
 
 
+---
 
-### Glad to see you here! 
-I’m a Data Analyst with a knack for transforming raw data into actionable insights. Passionate about using data to drive business strategy and identify opportunities for growth and improvement, I thrive on solving complex problems and uncovering meaningful trends.
+##  Connect With Me
 
-My expertise lies in collecting, cleaning, and analyzing large datasets using SQL, Python, Excel, and various BI tools. I excel at understanding business needs and translating them into focused analytical projects that lead to impactful solutions. I particularly enjoy the challenge of working with messy, real-world data and turning it into valuable insights that empower data-driven decision-making.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivanimasani/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivaniMasani)
 
-Committed to continuous learning and innovation, I love exploring new analytical approaches to make a real impact.
-  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">    
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>    
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
- 
-</div>  
-
-<br/>  
-
-
-<br />
-
+masanisivani226@gmail.com
